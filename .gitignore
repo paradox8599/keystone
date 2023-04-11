@@ -1,0 +1,14 @@
+.next
+.keystone
+dist/
+node_modules/
+
+# sqlite databases
+*.db
+
+# ts-gql
+__generated__
+
+# OS
+.DS_Store
+*.vscode
